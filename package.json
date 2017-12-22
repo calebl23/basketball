@@ -1,0 +1,19 @@
+{
+  "name": "basketball",
+  "version": "1.0.0",
+  "description": "An application that will allow users to find pick up basketball games at local basketball courts near there current location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebl23/basketball.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebl23/basketball/issues"
+  },
+  "homepage": "https://github.com/calebl23/basketball#readme"
+}
